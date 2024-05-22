@@ -1,0 +1,10 @@
+## Interface: 11501
+## Title: WAYF
+## Version: Beta 0.4
+## Author: Daeler and Faareoh
+## Notes: Where are you from mate ?
+## X-Category: Interface
+## DefaultState: Enabled
+## SavedVariables: WAYFSavedVariables
+WAYF.lua
+Images\logo WAYF.blp
